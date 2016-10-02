@@ -1,7 +1,13 @@
-select {
+button {
   float: right;
 }
 
+.jumbotron {
+  font-family: comic sans;
+  margin-top: 10px;
+  padding-top: 5px;
+  padding-bottom: 10px;
+}
 
 .hello {
   display: none;
@@ -57,4 +63,5 @@ select {
 
 #red {
   color: red;
+  font-size: 10px;
 }
