@@ -1,0 +1,67 @@
+button {
+  float: right;
+}
+
+.jumbotron {
+  font-family: comic sans;
+  margin-top: 10px;
+  padding-top: 5px;
+  padding-bottom: 10px;
+}
+
+.hello {
+  display: none;
+}
+
+.AsMM {
+  display: none;
+}
+
+.EuMM {
+  display: none;
+}
+
+.AmMM {
+  display: none;
+}
+
+.AfMM {
+  display: none;
+}
+
+.MoMM {
+  display: none;
+}
+
+.LaMM {
+  display: none;
+}
+
+.AsMMM {
+  display: none;
+}
+
+.EuMMM {
+  display: none;
+}
+
+.AmMMM {
+  display: none;
+}
+
+.AfMMM {
+  display: none;
+}
+
+.MoMMM {
+  display: none;
+}
+
+.LaMMM {
+  display: none;
+}
+
+#red {
+  color: red;
+  font-size: 10px;
+}
