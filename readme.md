@@ -2,7 +2,7 @@
 #### By _**Bill Klinkow**_
 
 ## Description
-_This website has the user fill out a short survey and then recommends a restaurant to try in SE Portland.  This website features branching in javascript._
+_This website has the user fill out a short survey and then recommends a restaurant to try in SE Portland.  This website features branching in javascript. _
 
 ## Known Bugs
 _The "Ambiance" form does not perform any function_
